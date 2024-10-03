@@ -1,7 +1,7 @@
 <?php
 /*   __________________________________________________
-    |            Obfuscated by DomathID - Php          |
-    |              on 2023-08-30 01:50:56              |
+    |            Ident Bekasi  Kabupaten               |
+    |             NVY-LDL08-30 01:50:56                |
     |    GitHub: https://github.com/Ident-Bekasi/      |
     |__________________________________________________|
 */
